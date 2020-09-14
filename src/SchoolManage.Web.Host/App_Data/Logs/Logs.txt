@@ -1,0 +1,181 @@
+DEBUG 2020-09-14 14:25:19,741 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-09-14 14:25:20,595 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-09-14 14:25:20,623 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolManage.Web.Host.Startup.SchoolManageWebHostModule, SchoolManage.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,628 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolManage.SchoolManageWebCoreModule, SchoolManage.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,629 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolManage.SchoolManageApplicationModule, SchoolManage.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,631 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolManage.SchoolManageCoreModule, SchoolManage.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,637 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,637 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,638 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolManage.EntityFrameworkCore.SchoolManageEntityFrameworkModule, SchoolManage.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,640 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,640 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,640 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,641 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,641 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:20,647 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-09-14 14:25:21,177 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-09-14 14:25:21,177 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-09-14 14:25:21,177 [1    ] o.Configuration.LanguageManagementConfig - Converted SchoolManage (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-09-14 14:25:21,177 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-09-14 14:25:22,347 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: SchoolManage.EntityFrameworkCore.SchoolManageDbContext, SchoolManage.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-09-14 14:25:23,507 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-09-14 14:25:23,699 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-09-14 14:25:23,764 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-09-14 14:25:23,804 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: SchoolManage
+DEBUG 2020-09-14 14:25:23,896 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-09-14 14:25:24,159 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-09-14 14:25:24,325 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[SchoolManage.MultiTenancy.Tenant, SchoolManage.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[SchoolManage.Authorization.Users.User, SchoolManage.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-09-14 14:25:24,388 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2020-09-14 14:25:24,388 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SchoolManage.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-09-14 14:25:24,395 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SchoolManage.Users.Dto.CreateUserDto
+DEBUG 2020-09-14 14:25:24,396 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SchoolManage.Users.Dto.UserDto
+DEBUG 2020-09-14 14:25:24,396 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SchoolManage.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-09-14 14:25:24,396 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SchoolManage.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-09-14 14:25:24,396 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SchoolManage.Roles.Dto.PermissionDto
+DEBUG 2020-09-14 14:25:24,396 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SchoolManage.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-09-14 14:25:24,396 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SchoolManage.MultiTenancy.Dto.TenantDto
+INFO  2020-09-14 14:25:30,117 [1    ] tCore.Builder.RequestLocalizationOptions - Supported Request Localization Cultures: en,es-MX,fr,de,it,nl,pt-BR,tr,ru,ar,zh-Hans,ja
+INFO  2020-09-14 14:25:30,613 [1    ] taProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\Will\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+INFO  2020-09-14 14:25:30,635 [1    ] taProtection.KeyManagement.XmlKeyManager - Creating key {64ae63e6-6b48-41b7-ac74-5f1faf7a51e7} with creation date 2020-09-14 06:25:30Z, activation date 2020-09-14 06:25:30Z, and expiration date 2020-12-13 06:25:30Z.
+INFO  2020-09-14 14:25:30,662 [1    ] ion.Repositories.FileSystemXmlRepository - Writing data to file 'C:\Users\Will\AppData\Local\ASP.NET\DataProtection-Keys\key-64ae63e6-6b48-41b7-ac74-5f1faf7a51e7.xml'.
+INFO  2020-09-14 14:25:30,738 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2020-09-14 14:25:30,909 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'SchoolManage.Web.Host.Controllers.HomeController.Index (SchoolManage.Web.Host)'
+INFO  2020-09-14 14:25:37,816 [5    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SchoolManage.Web.Host.Controllers.HomeController (SchoolManage.Web.Host).
+INFO  2020-09-14 14:25:40,671 [10   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-09-14 14:25:40,683 [10   ] c.Infrastructure.ControllerActionInvoker - Executed action SchoolManage.Web.Host.Controllers.HomeController.Index (SchoolManage.Web.Host) in 2857.4351ms
+INFO  2020-09-14 14:25:40,686 [10   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'SchoolManage.Web.Host.Controllers.HomeController.Index (SchoolManage.Web.Host)'
+INFO  2020-09-14 14:25:40,709 [17   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2020-09-14 14:25:40,712 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9975.1085ms 302 
+INFO  2020-09-14 14:25:40,761 [17   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 51.2134ms 301 
+INFO  2020-09-14 14:25:40,776 [17   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2020-09-14 14:25:40,836 [17   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 68.4468ms 200 text/html;charset=utf-8
+INFO  2020-09-14 14:25:40,926 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2020-09-14 14:25:41,029 [8    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2020-09-14 14:25:41,036 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 121.4532ms 200 text/css
+INFO  2020-09-14 14:25:41,127 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2020-09-14 14:25:41,131 [17   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2020-09-14 14:25:41,133 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2020-09-14 14:25:41,181 [20   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2020-09-14 14:25:41,184 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2020-09-14 14:25:41,192 [20   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 60.8773ms 200 application/javascript
+INFO  2020-09-14 14:25:41,199 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 60.2287ms 200 application/javascript
+INFO  2020-09-14 14:25:41,225 [20   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2020-09-14 14:25:41,228 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2020-09-14 14:25:41,232 [20   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 108.8453ms 200 application/javascript
+INFO  2020-09-14 14:25:41,249 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2020-09-14 14:25:41,257 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 27.2004ms 200 application/javascript
+INFO  2020-09-14 14:25:42,039 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AntiForgery/SetCookie  
+INFO  2020-09-14 14:25:42,048 [12   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'SchoolManage.Web.Host.Controllers.AntiForgeryController.SetCookie (SchoolManage.Web.Host)'
+INFO  2020-09-14 14:25:42,064 [12   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "SetCookie", controller = "AntiForgery", area = ""}. Executing controller action with signature Void SetCookie() on controller SchoolManage.Web.Host.Controllers.AntiForgeryController (SchoolManage.Web.Host).
+INFO  2020-09-14 14:25:42,103 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-09-14 14:25:42,144 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2020-09-14 14:25:42,240 [20   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-16x16.png  
+INFO  2020-09-14 14:25:42,255 [20   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+INFO  2020-09-14 14:25:42,265 [20   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 30.7465ms 200 image/png
+INFO  2020-09-14 14:25:42,363 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action SchoolManage.Web.Host.Controllers.AntiForgeryController.SetCookie (SchoolManage.Web.Host) in 293.1862ms
+INFO  2020-09-14 14:25:42,369 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'SchoolManage.Web.Host.Controllers.AntiForgeryController.SetCookie (SchoolManage.Web.Host)'
+INFO  2020-09-14 14:25:42,373 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 333.4641ms 200 application/json; charset=utf-8
+ERROR 2020-09-14 14:25:42,390 [4    ] AspNetCore.Server.IIS.Core.IISHttpServer - Connection ID "18230571293206380545", Request ID "80000004-0000-fd00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.NotSupportedException: Ambiguous HTTP method for action - SchoolManage.Web.Host.Controllers.BookController.GetBookList (SchoolManage.Web.Host). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Abp.AspNetCore.Security.AbpSecurityHeadersMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+INFO  2020-09-14 14:25:42,395 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 250.0321ms 500 
+INFO  2020-09-14 14:26:51,838 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:51,851 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 8.0142ms 404 
+INFO  2020-09-14 14:26:52,407 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:52,421 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9.7038ms 404 
+INFO  2020-09-14 14:26:53,020 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:53,036 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 25.0247ms 404 
+INFO  2020-09-14 14:26:53,627 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:53,634 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 7.3037ms 404 
+INFO  2020-09-14 14:26:54,240 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:54,248 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 6.8648ms 404 
+INFO  2020-09-14 14:26:54,849 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:54,885 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 28.3875ms 404 
+INFO  2020-09-14 14:26:55,457 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:55,471 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 10.6452ms 404 
+INFO  2020-09-14 14:26:56,056 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:56,063 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 6.663ms 404 
+INFO  2020-09-14 14:26:56,672 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:56,680 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 5.693ms 404 
+INFO  2020-09-14 14:26:57,281 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:57,319 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 29.637ms 404 
+INFO  2020-09-14 14:26:57,895 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:57,908 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 11.5067ms 404 
+INFO  2020-09-14 14:26:58,491 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:58,502 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9.0072ms 404 
+INFO  2020-09-14 14:26:59,111 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:59,123 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9.6561ms 404 
+INFO  2020-09-14 14:26:59,727 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:26:59,733 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 10.2154ms 404 
+INFO  2020-09-14 14:27:00,328 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:00,336 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 8.0409ms 404 
+INFO  2020-09-14 14:27:00,927 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:00,934 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 6.0146ms 404 
+INFO  2020-09-14 14:27:01,025 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/book  
+INFO  2020-09-14 14:27:01,029 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'SchoolManage.Web.Host.Controllers.BookController.GetBookList (SchoolManage.Web.Host)'
+INFO  2020-09-14 14:27:01,042 [5    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "GetBookList", controller = "Book", area = ""}. Executing controller action with signature Abp.Application.Services.Dto.PagedResultDto`1[SchoolManage.Books.Dto.BookDto] GetBookList() on controller SchoolManage.Web.Host.Controllers.BookController (SchoolManage.Web.Host).
+ERROR 2020-09-14 14:27:01,047 [5    ] Mvc.ExceptionHandling.AbpExceptionFilter - No component for supporting the service SchoolManage.Web.Host.Controllers.BookController was found
+Castle.MicroKernel.ComponentNotFoundException: No component for supporting the service SchoolManage.Web.Host.Controllers.BookController was found
+   at Castle.MicroKernel.DefaultKernel.Castle.MicroKernel.IKernelInternal.Resolve(Type service, Arguments arguments, IReleasePolicy policy, Boolean ignoreParentContext)
+   at Castle.MicroKernel.DefaultKernel.Resolve(Type service, Arguments arguments)
+   at Castle.Windsor.MsDependencyInjection.ScopedWindsorServiceProvider.GetServiceInternal(Type serviceType, Boolean isOptional)
+   at Microsoft.AspNetCore.Mvc.Controllers.ServiceBasedControllerActivator.Create(ControllerContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+INFO  2020-09-14 14:27:01,443 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-09-14 14:27:01,457 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action SchoolManage.Web.Host.Controllers.BookController.GetBookList (SchoolManage.Web.Host) in 412.7553ms
+INFO  2020-09-14 14:27:01,460 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'SchoolManage.Web.Host.Controllers.BookController.GetBookList (SchoolManage.Web.Host)'
+INFO  2020-09-14 14:27:01,463 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 437.7048ms 500 application/json; charset=utf-8
+INFO  2020-09-14 14:27:01,708 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:01,718 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 8.6041ms 404 
+INFO  2020-09-14 14:27:05,782 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:05,793 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 7.4163ms 404 
+INFO  2020-09-14 14:27:06,396 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:06,411 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 11.739ms 404 
+INFO  2020-09-14 14:27:07,024 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:07,032 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 16.4499ms 404 
+INFO  2020-09-14 14:27:07,624 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:07,635 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 7.3788ms 404 
+INFO  2020-09-14 14:27:08,244 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:08,288 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 7.3678ms 404 
+INFO  2020-09-14 14:27:08,860 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:08,881 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 24.1814ms 404 
+INFO  2020-09-14 14:27:09,472 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:09,483 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 20.8752ms 404 
+INFO  2020-09-14 14:27:10,072 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:10,077 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 4.3591ms 404 
+INFO  2020-09-14 14:27:10,688 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:10,693 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 4.2182ms 404 
+INFO  2020-09-14 14:27:11,305 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:11,313 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 7.7442ms 404 
+INFO  2020-09-14 14:27:11,907 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:11,916 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 8.3852ms 404 
+INFO  2020-09-14 14:27:12,524 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:12,531 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 6.3032ms 404 
+INFO  2020-09-14 14:27:13,121 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:13,130 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 7.1663ms 404 
+INFO  2020-09-14 14:27:13,722 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:13,725 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 3.8073ms 404 
+INFO  2020-09-14 14:27:14,323 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:14,327 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 4.2193ms 404 
+INFO  2020-09-14 14:27:14,876 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/book/getbook  
+INFO  2020-09-14 14:27:14,882 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 5.6846ms 404 
+INFO  2020-09-14 14:27:29,392 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:29,405 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 7.2081ms 404 
+INFO  2020-09-14 14:27:30,004 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2020-09-14 14:27:30,008 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 3.6386ms 404 
+INFO  2020-09-14 14:27:30,150 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/book/getbooklist  
+INFO  2020-09-14 14:27:30,166 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 13.7801ms 404 
