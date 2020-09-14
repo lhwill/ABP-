@@ -1,0 +1,12 @@
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\bin\Debug\netcoreapp3.1\SchoolManage.Application.deps.json
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\bin\Debug\netcoreapp3.1\SchoolManage.Application.dll
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\bin\Debug\netcoreapp3.1\SchoolManage.Application.pdb
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\bin\Debug\netcoreapp3.1\SchoolManage.Core.dll
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\bin\Debug\netcoreapp3.1\SchoolManage.Core.pdb
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\obj\Debug\netcoreapp3.1\SchoolManage.Application.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\obj\Debug\netcoreapp3.1\SchoolManage.Application.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\obj\Debug\netcoreapp3.1\SchoolManage.Application.AssemblyInfo.cs
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\obj\Debug\netcoreapp3.1\SchoolManage.Application.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\obj\Debug\netcoreapp3.1\SchoolManage.Application.csproj.CopyComplete
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\obj\Debug\netcoreapp3.1\SchoolManage.Application.dll
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.Application\obj\Debug\netcoreapp3.1\SchoolManage.Application.pdb

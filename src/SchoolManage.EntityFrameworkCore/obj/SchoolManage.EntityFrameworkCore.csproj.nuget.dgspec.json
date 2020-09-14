@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Will\\Desktop\\SchoolManage\\5.7.0\\aspnet-core\\src\\SchoolManage.EntityFrameworkCore\\SchoolManage.EntityFrameworkCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Will\\Desktop\\SchoolManage\\5.7.0\\aspnet-core\\src\\SchoolManage.Core\\SchoolManage.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Will\\Desktop\\SchoolManage\\5.7.0\\aspnet-core\\src\\SchoolManage.Core\\SchoolManage.Core.csproj",
+        "projectName": "SchoolManage.Core",
+        "projectPath": "C:\\Users\\Will\\Desktop\\SchoolManage\\5.7.0\\aspnet-core\\src\\SchoolManage.Core\\SchoolManage.Core.csproj",
+        "packagesPath": "C:\\Users\\Will\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Will\\Desktop\\SchoolManage\\5.7.0\\aspnet-core\\src\\SchoolManage.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Will\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Abp.AutoMapper": {
+              "target": "Package",
+              "version": "[5.10.1, )"
+            },
+            "Abp.ZeroCore.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.10.1, )"
+            },
+            "Castle.Windsor.MsDependencyInjection": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Will\\Desktop\\SchoolManage\\5.7.0\\aspnet-core\\src\\SchoolManage.EntityFrameworkCore\\SchoolManage.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Will\\Desktop\\SchoolManage\\5.7.0\\aspnet-core\\src\\SchoolManage.EntityFrameworkCore\\SchoolManage.EntityFrameworkCore.csproj",
+        "projectName": "SchoolManage.EntityFrameworkCore",
+        "projectPath": "C:\\Users\\Will\\Desktop\\SchoolManage\\5.7.0\\aspnet-core\\src\\SchoolManage.EntityFrameworkCore\\SchoolManage.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Will\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Will\\Desktop\\SchoolManage\\5.7.0\\aspnet-core\\src\\SchoolManage.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Will\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Will\\Desktop\\SchoolManage\\5.7.0\\aspnet-core\\src\\SchoolManage.Core\\SchoolManage.Core.csproj": {
+                "projectPath": "C:\\Users\\Will\\Desktop\\SchoolManage\\5.7.0\\aspnet-core\\src\\SchoolManage.Core\\SchoolManage.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

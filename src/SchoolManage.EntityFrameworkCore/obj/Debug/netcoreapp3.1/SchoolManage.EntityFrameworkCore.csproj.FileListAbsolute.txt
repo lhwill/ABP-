@@ -1,0 +1,17 @@
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\bin\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.dll.config
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\bin\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.deps.json
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\bin\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.runtimeconfig.json
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\bin\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\bin\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.dll
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\bin\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.pdb
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\bin\Debug\netcoreapp3.1\SchoolManage.Core.dll
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\bin\Debug\netcoreapp3.1\SchoolManage.Core.pdb
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\obj\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\obj\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.dll.config
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\obj\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\obj\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\obj\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\obj\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\obj\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.dll
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\obj\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.pdb
+C:\Users\Will\Desktop\SchoolManage\5.7.0\aspnet-core\src\SchoolManage.EntityFrameworkCore\obj\Debug\netcoreapp3.1\SchoolManage.EntityFrameworkCore.genruntimeconfig.cache
